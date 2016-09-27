@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "ARTIK 10 Setup"
+date:   2016-09-27 18:58:00 +0900
+author: [Taehee Jeong](https://github.com/FredJeong)
+categories: artik tizen
+---
+
+by [Taehee Jeong](https://github.com/FredJeong)
+
+In order to mount Tizen 3.0 on ARTIK, I refered following articles.
+
+* [ARTIK 10 for Tizen 3.0](https://wiki.tizen.org/wiki/ARTIK_10_for_Tizen_3.0)
+* [Booting Tizen 3.0 from microSD on ARTIK](https://wiki.tizen.org/wiki/Booting_Tizen_3.0_From_microSD_On_ARTIK)
+
+* [How To – Boot Tizen 3.0 on ARTIK 5 and ARTIK 10 Dev Boards](http://www.tizenexperts.com/2016/08/boot-tizen-3-0-artik-5-artik-10-dev-boards/)
+* [How to Boot Tizen on ARTIK](https://blogs.s-osg.org/boot-tizen-artik/)
+
+The first two approaches - which required me to compile and flash Tizen 3.0 kernel was not so successful(detailed failure log will come if the problem is repeated), but thanks for the latter two approaches, which provided pre-built [qcow2 file](https://files.s-osg.org/~pcoval/pub/file/tizen-common-artik10-20160801rzr.qcow2) for the Tizen 3.0 by Phil Coval, I managed to flash Tizen 3.0 on sdcard and eventually on eMMC on ARTIk 10.
+
