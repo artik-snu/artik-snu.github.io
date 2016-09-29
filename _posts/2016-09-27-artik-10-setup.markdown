@@ -17,3 +17,22 @@ In order to mount Tizen 3.0 on ARTIK, I refered following articles.
 
 The first two approaches - which required me to compile and flash Tizen 3.0 kernel was not so successful(detailed failure log will come if the problem is repeated), but thanks for the latter two approaches, which provided pre-built [qcow2 file](https://files.s-osg.org/~pcoval/pub/file/tizen-common-artik10-20160801rzr.qcow2) for the Tizen 3.0 by Phil Coval, I managed to flash Tizen 3.0 on sdcard and eventually on eMMC on ARTIk 10.
 
+However, the script from last blog for flashing image to SD card need to be modified, according to the filename
+
+
+**sd_flash.sh**
+{% highlight bash %}
+lsblk
+#Change sdX to your SD card drive path
+disk=/dev/sdX
+#change file name to match your qcow2 name
+file=tizen-common-artik10-20160801rzr.qcow2
+time qemu-img convert -p "${file}" "${disk}"
+{% endhighlight %}
+
+then run the following commands from the terminal:
+
+{% highlight bash %}
+chmod +x sd_flash.sh
+./sd_flash.bash
+{% endhighlight %}
