@@ -5,7 +5,7 @@ date:   2016-09-27 18:58:00 +0900
 categories: artik tizen
 ---
 
-by [Taehee Jeong](https://github.com/FredJeong)
+##### *by [Taehee Jeong](https://github.com/FredJeong)*{: style="color: #888"}
 
 In order to mount Tizen 3.0 on ARTIK, I refered following articles.
 

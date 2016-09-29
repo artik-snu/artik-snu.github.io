@@ -5,7 +5,7 @@ date:   2016-09-30 01:28:00 +0900
 categories: artik tizen
 ---
 
-*by [Taehee Jeong](https://github.com/FredJeong)*
+##### *by [Taehee Jeong](https://github.com/FredJeong)*{: style="color: #888"}
 
 The first objective of this project is to develop GPIO API.
 
@@ -24,6 +24,8 @@ echo 0 > /sys/class/gpio/direction
 
 I succesfully turned LED on and off
 
-#TL;DR
+TL;DR
+------
+
 [Exploring ARTIK GPIO](https://developer.artik.io/documentation/tutorials/using-gpio-on-artik-10.html) from ARTIK Documentation
 [Pin Programming](https://developer.artik.io/documentation/developer-guide/gpio/kernel-gpio.html) from ARTIK Documentation
