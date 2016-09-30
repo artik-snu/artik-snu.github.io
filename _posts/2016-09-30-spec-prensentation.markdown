@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "GPIO Research"
+title:  "Spec Preseatation"
 date:   2016-09-30 14:30:00 +0900
-categories: artik tizen
+categories: presentation
 ---
 
 ##### *by [Taehee Jeong](https://github.com/FredJeong)*{: style="color: #888"}

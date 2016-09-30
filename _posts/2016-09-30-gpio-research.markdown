@@ -2,7 +2,7 @@
 layout: post
 title:  "GPIO Research"
 date:   2016-09-30 01:28:00 +0900
-categories: artik tizen
+categories: artik tizen gpio
 ---
 
 ##### *by [Taehee Jeong](https://github.com/FredJeong)*{: style="color: #888"}
