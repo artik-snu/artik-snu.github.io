@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Spec Preseatation"
+title:  "Spec Presentation"
 date:   2016-09-30 14:30:00 +0900
 categories: presentation
 ---
