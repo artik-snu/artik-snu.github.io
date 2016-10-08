@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: ARTIK-SNU Project
-email: wwee3631@snu.ac.kr;park@jun.mo;kim@taek.min
+email: wwee3631@snu.ac.kr;park@jun.mo;tantara.tm@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   This is a blog for writing up progress on this class. Things we learned and
   struggeled, as well as actual development and thoughts will be posted.
