@@ -78,7 +78,7 @@
 	- [tizen-gpio, README & LICENSE](https://github.com/artik-snu/gpio/blob/master/README.md)
 	- [nodejs-gpio, README & LICENSE](https://github.com/artik-snu/node-addon-gpio/blob/master/README.md)
 	- [SOSCON-rvc, README](https://github.com/artik-snu/SOSCON-RVC/blob/master/README.md)
-	- [SOSCON-dashboard, README](https://github.com/artik-snu/soscon-dashboard/blob/master/README.md)
+	- [SOSCON-dashboard, README & LICENSE](https://github.com/artik-snu/soscon-dashboard/blob/master/README.md)
 
 #### Blog(10)
 
