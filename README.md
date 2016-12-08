@@ -87,6 +87,8 @@ Blog: [artik-snu.github.io](https://artik-snu.github.io/)
 1. **프레임워크 분석 및 개발 방법 작성(7)**
 	2. [GPIO Research](https://artik-snu.github.io/artik/tizen/gpio/2016/09/29/gpio-research.html)
 	3. [Memory Mapped GPIO](https://artik-snu.github.io/artik/tizen/gpio/2016/10/12/memory-mapped-gpio.html)
+	4. [Tizen용 Node.js rpm 만들기](https://artik-snu.github.io/artik/tizen/nodejs/rpm/2016/12/08/build-nodejs-on-artik.html)
+	5. [GPIO를 위한 nodejs Addon 만들기](https://artik-snu.github.io/artik/tizen/nodejs/rpm/addon/2016/12/08/nodejs-addon.html)
 2. **Issue에 대한 블로그 작업(3)**
 	3. [Error while using gbs to build package](https://lists.tizen.org/pipermail/application-dev/2016-October/000791.html)
 
