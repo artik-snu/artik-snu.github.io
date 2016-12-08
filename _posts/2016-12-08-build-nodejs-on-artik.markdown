@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "node.js on ARTIK"
+title:  "Tizen용 Node.js rpm 만들기"
 date:   2016-12-08 20:17:00 +0900
 categories: artik tizen nodejs rpm
 ---
