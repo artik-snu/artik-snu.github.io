@@ -89,6 +89,9 @@ Blog: [artik-snu.github.io](https://artik-snu.github.io/)
 	3. [Memory Mapped GPIO](https://artik-snu.github.io/artik/tizen/gpio/2016/10/12/memory-mapped-gpio.html)
 	4. [Tizen용 Node.js rpm 만들기](https://artik-snu.github.io/artik/tizen/nodejs/rpm/2016/12/08/build-nodejs-on-artik.html)
 	5. [GPIO를 위한 nodejs Addon 만들기](https://artik-snu.github.io/artik/tizen/nodejs/rpm/addon/2016/12/08/nodejs-addon.html)
+	6. [ARTIK 10 Setup](https://artik-snu.github.io/artik/tizen/2016/09/27/artik-10-setup.html)
+	7. [node.js on ARTIK](https://artik-snu.github.io/artik/tizen/nodejs/2016/10/06/nodejs-on-artik.html)
+	8. [Application Build Using gcc](https://artik-snu.github.io/artik/tizen/2016/10/12/application-build-using-gcc.html)
 2. **Issue에 대한 블로그 작업(3)**
 	3. [Error while using gbs to build package](https://lists.tizen.org/pipermail/application-dev/2016-October/000791.html)
 
