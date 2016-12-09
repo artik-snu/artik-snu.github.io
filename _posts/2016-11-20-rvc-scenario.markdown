@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Samsung RVC Hackaton scenario"
 date:   2016-11-20 13:10:00 +0900
